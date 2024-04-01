@@ -17,5 +17,3 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with PHP;
 - 💬 Ask me about assembly and maintenance, software, hardware, and everything related to a computer
 - 📫 How to reach me: <a href = "mailto:fhb_s@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" width="45" height="15" ></a>
-
-![Snake animation](https://github.com/LordFelipera/LordFelipera/blob/output/github-contribution-grid-snake.svg)
